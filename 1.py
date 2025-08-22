@@ -8,6 +8,6 @@ while i < j:
     i += 1
     j -= 1
 if is_palindrome:
-    print("the given string is palindrome") 
+    print("the given string is palindromes") 
 else:
     print("the given string is not a palindrome")
