@@ -1,4 +1,4 @@
-s = "malayalam" 
+s = "amma" 
 i,j = 0, len(s) - 1  
 is_palindrome = True  
 while i < j:
@@ -8,6 +8,6 @@ while i < j:
     i += 1
     j -= 1
 if is_palindrome:
-    print("Yes") 
+    print("the given string is palindrome") 
 else:
-    print("No")
+    print("the given string is not a palindrome")
